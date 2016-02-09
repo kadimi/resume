@@ -1,2 +1,1 @@
-# resume
-Nabil Kadimi – Web Developer
+# Nabil Kadimi – Web Developer
