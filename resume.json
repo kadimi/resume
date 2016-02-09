@@ -1,0 +1,54 @@
+{
+  "basics": {
+    "name": "Nabil Kadimi",
+    "label": "Web Developer",
+    "picture": "https://s3.amazonaws.com/app.codeable.io/avatars/contractor/5867/large_7accaff1d29c5d074218919d4150d1e5.png",
+    "email": "nabil -at- kadimi -dot- com",
+    "phone": "+212 665 80 24 25",
+    "website": "http://kadimi.com",
+    "summary": "Web Developer",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Casablanca",
+      "countryCode": "MA",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "neutralthoughts",
+        "url": ""
+      }
+    ]
+  },
+  "work": [],
+  "volunteer": [],
+  "education": [],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Internet",
+      "keywords": [
+        "E-commerce"
+      ]
+    }
+  ],
+  "references": []
+}
