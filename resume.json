@@ -1,54 +1,134 @@
 {
   "basics": {
     "name": "Nabil Kadimi",
-    "label": "Web Developer",
-    "picture": "https://s3.amazonaws.com/app.codeable.io/avatars/contractor/5867/large_7accaff1d29c5d074218919d4150d1e5.png",
-    "email": "nabil -at- kadimi -dot- com",
-    "phone": "+212 665 80 24 25",
-    "website": "http://kadimi.com",
-    "summary": "Web Developer",
+    "label": "WordPress Developer",
+    "picture": "https://s3.amazonaws.com/app.codeable.io/avatars/contractor/5867/large_420c0e59ca0e1c35c860e16eac726a76.png",
+    "email": "nabil@kadimi.com",
+    "phone": "+212.665.80.24.25",
+    "website": "https://kadimi.com",
+    "summary": "I'm Nabil from Morocco (UTC timezone), I love WordPress, I started using it since Duke (version 2.0, 2006) and I have fun with it almost everyday in my life for the past 5 years, I like it so much that I specialized in it. w.org claims I'm a core contrinbutor, a plugin author and a translation contibutor, it should know I'm also a theme author and reviewer.",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Casablanca",
+      "address": "371 Lot. Boutalamine",
+      "postalCode": "52000",
+      "city": "Errachidia",
       "countryCode": "MA",
-      "region": ""
+      "region": "Drâa-Tafilalet"
     },
     "profiles": [
       {
+        "network": "github",
+        "username": "github",
+        "url": "http://github.com/kadimi"
+      },
+      {
         "network": "Twitter",
-        "username": "neutralthoughts",
-        "url": ""
+        "username": "nabil_kadimi",
+        "url": "http://twitter.com/nabil_kadimi"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "Codeable ",
+      "position": "Independent WordPress Developer",
+      "website": "https://codeable.io/developers/nabil-kadimi/",
+      "startDate": "2015-03",
+      "endDate": "",
+      "summary": "Codeable is the number 1 outsourcing service for WordPress, trusted by Automattic,  PremiumPress and many other big names.",
+      "highlights": [
+        "100+ project completed successfully.",
+        "Wrote custom plugins, did websites overhauls, API integrations and more."
+      ]
+    },
+    {
+      "company": "EDesigner KSA",
+      "position": "Lead Web Developer",
+      "website": "https://edesigner.com.sa",
+      "startDate": "2012-05",
+      "endDate": "2015-03",
+      "summary": "With my dreams team of web developers and we designers, we made many stunning websites for the KSA market.",
+      "highlights": [
+        "I sharpened my CSS/RTL skills as most website were in Arabic.",
+        "I worked on many government projects (Ministry of Health and Ministry of Education).",
+        "I enjoyed dealing with a major traffic spike when one of the news websites we were managing covered the biggest real estate deal in the history of Saudi Arabia.",
+        "I worked in some Drupal project as well"
+      ]
+    },
+    {
+      "company": "Upwork & Similar",
+      "position": "Independent Web Developer",
+      "website": "",
+      "startDate": "2006-01",
+      "endDate": "2012-09",
+      "summary": "My debuts were on freelancer websites. Most projects were with WordPress, but I also worked with Drupal, Joomla and vanilla PHP.",
+      "highlights": []
+    }
+  ],
   "volunteer": [],
-  "education": [],
-  "awards": [],
+  "education": [
+    {
+      "institution": "IUT of Nice",
+      "area": "Sophia Antipolis, France",
+      "studyType": "Networking & Telecommunications",
+      "startDate": "2012/09",
+      "endDate": "2013/12",
+      "gpa": "",
+      "courses": [
+        "Algorhythm, C, C++ and Java Programming",
+        "Electricity & Electronics",
+        "Networking"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Employee of the Month",
+      "date": "2012-09",
+      "awarder": "EDesigner KSA",
+      "summary": "I won the first \"Employee of the Month\" title and got an iPad 2 mini which helped me a lot for my cross browser compatibility tests. "
+    }
+  ],
   "publications": [],
   "skills": [
     {
-      "name": "Web Development",
-      "level": "Master",
+      "name": "WordPress",
+      "level": "",
       "keywords": [
-        "HTML"
+        "Plugin Development",
+        "Theme development",
+        "Hosting Management (Flyweel, Pantheon, WPEngine)",
+        "Advanced troubleshooting"
+      ]
+    },
+    {
+      "name": "Related or Similar Technologies",
+      "level": "",
+      "keywords": [
+        "HMTL, CSS, PHP, MySQL & JavaScript.",
+        "Drupal",
+        "Laravel",
+        "Vue.js",
+        "Linux (mostly Debian based) & server administration.",
+        "Grunt & gulp.js.",
+        "Vagrant & some Docker.",
+        "Some C, Ruby, shell scripting & Java."
       ]
     }
   ],
   "languages": [
     {
-      "language": "English",
-      "fluency": "Native speaker"
-    }
-  ],
-  "interests": [
+      "language": "Arabic",
+      "fluency": "Native Speaker"
+    },
     {
-      "name": "Internet",
-      "keywords": [
-        "E-commerce"
-      ]
+      "language": "French",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
     }
   ],
+  "interests": [],
   "references": []
 }
