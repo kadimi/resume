@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Nabil Kadimi",
-    "label": "WordPress Developer",
+    "label": "WordPress Developer at Codeable",
     "picture": "https://s3.amazonaws.com/app.codeable.io/avatars/contractor/5867/large_420c0e59ca0e1c35c860e16eac726a76.png",
     "email": "nabil@kadimi.com",
     "phone": "+212.665.80.24.25",
     "website": "https://kadimi.com",
-    "summary": "I'm Nabil from Morocco (UTC timezone), I love WordPress, I started using it since Duke (version 2.0, 2006) and I have fun with it almost everyday in my life for the past 5 years, I like it so much that I specialized in it. w.org claims I'm a core contrinbutor, a plugin author and a translation contibutor, it should know I'm also a theme author and reviewer.",
+    "summary": "I'm Nabil from Morocco (UTC timezone), I love WordPress, I started using it since Duke (version 2.0, 2006) and I have fun with it almost everyday in my life for the past 5 years, I like it so much that I specialized in it. \"w.org\" claims I'm a core contrinbutor, a plugin author and a translation contibutor, it should know I'm also a theme author and reviewer.",
     "location": {
       "address": "371 Lot. Boutalamine",
       "postalCode": "52000",
@@ -34,10 +34,42 @@
       "website": "https://codeable.io/developers/nabil-kadimi/",
       "startDate": "2015-03",
       "endDate": "",
-      "summary": "Codeable is the number 1 outsourcing service for WordPress, trusted by Automattic,  PremiumPress and many other big names.",
+      "summary": "I currently work on WordPress projects on Codeable, the number 1 outsourcing service for WordPress, trusted by Automattic,  PremiumPress and many other big names.",
       "highlights": [
-        "100+ project completed successfully.",
-        "Wrote custom plugins, did websites overhauls, API integrations and more."
+        "I worked on more than 120 WordPress projects.",
+        "I wrote custom plugins, did websites overhauls, API integrations and more."
+      ]
+    },
+    {
+      "company": "Self-Employed",
+      "position": "Web Developer",
+      "website": "https://kadimi.com",
+      "startDate": "2005/01",
+      "endDate": "",
+      "summary": "  I enjoy working independently, most of my work is in WordPress, but I also do Drupal, Laravel, advanced JavaScript and much more.",
+      "highlights": []
+    },
+    {
+      "company": "Press Apps",
+      "position": "WordPress Developer",
+      "website": "https://themeforest.net/user/pressapps",
+      "startDate": "2014/05",
+      "endDate": "2015/03",
+      "summary": "I had the nice opportunity to work with elite Envato author Press Apps.",
+      "highlights": [
+        "WordPress Theming",
+        "WordPress Plugin Development"
+      ]
+    },
+    {
+      "company": "Fatcat Apps",
+      "position": "WordPress plugin developer",
+      "website": "https://fatcatapps.com",
+      "startDate": "2014/05",
+      "endDate": "2015/03",
+      "summary": "WordPress plugin development with the awesome Australian startup Fatcat Apps.",
+      "highlights": [
+        "I worked on the plugins Optin Cat & Easy Pricing Tables "
       ]
     },
     {
@@ -46,12 +78,12 @@
       "website": "https://edesigner.com.sa",
       "startDate": "2012-05",
       "endDate": "2015-03",
-      "summary": "With my dreams team of web developers and we designers, we made many stunning websites for the KSA market.",
+      "summary": "I was the lead developer in a dream team of web developers and web designers, we made many stunning websites for the Saudi Arabian & the Middle East markets.",
       "highlights": [
-        "I sharpened my CSS/RTL skills as most website were in Arabic.",
+        "This is where I acquired  my razor sharp CSS/RTL skills as most website were in Arabic.",
         "I worked on many government projects (Ministry of Health and Ministry of Education).",
         "I enjoyed dealing with a major traffic spike when one of the news websites we were managing covered the biggest real estate deal in the history of Saudi Arabia.",
-        "I worked in some Drupal project as well"
+        "I worked in some Drupal projects as well."
       ]
     },
     {
@@ -59,7 +91,7 @@
       "position": "Independent Web Developer",
       "website": "",
       "startDate": "2006-01",
-      "endDate": "2012-09",
+      "endDate": "2012-04",
       "summary": "My debuts were on freelancer websites. Most projects were with WordPress, but I also worked with Drupal, Joomla and vanilla PHP.",
       "highlights": []
     }
@@ -101,7 +133,7 @@
       ]
     },
     {
-      "name": "Related or Similar Technologies",
+      "name": "Other Technologies",
       "level": "",
       "keywords": [
         "HMTL, CSS, PHP, MySQL & JavaScript.",
