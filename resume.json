@@ -32,8 +32,7 @@
       "company": "Codeable ",
       "position": "Independent WordPress Developer",
       "website": "https://codeable.io/developers/nabil-kadimi/",
-      "startDate": "2015-03",
-      "endDate": "",
+      "startDate": "2015-03-01",
       "summary": "I currently work on WordPress projects on Codeable, the number 1 outsourcing service for WordPress, trusted by Automattic,  PremiumPress and many other big names.",
       "highlights": [
         "I worked on more than 120 WordPress projects.",
@@ -44,8 +43,7 @@
       "company": "Self-Employed",
       "position": "Web Developer",
       "website": "https://kadimi.com",
-      "startDate": "2005/01",
-      "endDate": "",
+      "startDate": "2005-01-01",
       "summary": "  I enjoy working independently, most of my work is in WordPress, but I also do Drupal, Laravel, advanced JavaScript and much more.",
       "highlights": []
     },
@@ -53,8 +51,8 @@
       "company": "Press Apps",
       "position": "WordPress Developer",
       "website": "https://themeforest.net/user/pressapps",
-      "startDate": "2014/05",
-      "endDate": "2015/03",
+      "startDate": "2014-05-01",
+      "endDate": "2015-03-01",
       "summary": "I had the nice opportunity to work with elite Envato author Press Apps.",
       "highlights": [
         "WordPress Theming",
@@ -65,8 +63,8 @@
       "company": "Fatcat Apps",
       "position": "WordPress plugin developer",
       "website": "https://fatcatapps.com",
-      "startDate": "2014/05",
-      "endDate": "2015/03",
+      "startDate": "2014-05-01",
+      "endDate": "2015-03-01",
       "summary": "WordPress plugin development with the awesome Australian startup Fatcat Apps.",
       "highlights": [
         "I worked on the plugins Optin Cat & Easy Pricing Tables "
@@ -76,8 +74,8 @@
       "company": "EDesigner KSA",
       "position": "Lead Web Developer",
       "website": "https://edesigner.com.sa",
-      "startDate": "2012-05",
-      "endDate": "2015-03",
+      "startDate": "2012-05-01",
+      "endDate": "2015-03-01",
       "summary": "I was the lead developer in a dream team of web developers and web designers, we made many stunning websites for the Saudi Arabian & the Middle East markets.",
       "highlights": [
         "This is where I acquired  my razor sharp CSS/RTL skills as most website were in Arabic.",
@@ -90,8 +88,8 @@
       "company": "Upwork & Similar",
       "position": "Independent Web Developer",
       "website": "",
-      "startDate": "2006-01",
-      "endDate": "2012-04",
+      "startDate": "2006-01-01",
+      "endDate": "2012-04-01",
       "summary": "My debuts were on freelancer websites. Most projects were with WordPress, but I also worked with Drupal, Joomla and vanilla PHP.",
       "highlights": []
     }
@@ -102,8 +100,8 @@
       "institution": "IUT of Nice",
       "area": "Sophia Antipolis, France",
       "studyType": "Networking & Telecommunications",
-      "startDate": "2012/09",
-      "endDate": "2013/12",
+      "startDate": "2012-09-01",
+      "endDate": "2013-12-01",
       "gpa": "",
       "courses": [
         "Algorhythm, C, C++ and Java Programming",
@@ -115,7 +113,7 @@
   "awards": [
     {
       "title": "Employee of the Month",
-      "date": "2012-09",
+      "date": "2012-09-01",
       "awarder": "EDesigner KSA",
       "summary": "I won the first \"Employee of the Month\" title and got an iPad 2 mini which helped me a lot for my cross browser compatibility tests. "
     }
